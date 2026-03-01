@@ -1,18 +1,15 @@
 {
   "files": {
     "main.css": "/happybdaymonkey/static/css/main.9770e1df.css",
-    "main.js": "/happybdaymonkey/static/js/main.392fdfa0.js",
+    "main.js": "/happybdaymonkey/static/js/main.1c85efdd.js",
     "static/js/488.2da95405.chunk.js": "/happybdaymonkey/static/js/488.2da95405.chunk.js",
-    "static/media/bdayaudo.mp3": "/happybdaymonkey/static/media/bdayaudo.3e0c7eec94df84220422.mp3",
-    "static/media/birthdaytext.png": "/happybdaymonkey/static/media/birthdaytext.efdaafac6d3491395c02.png",
-    "static/media/matthew.jpg": "/happybdaymonkey/static/media/matthew.c276ea04dee0b1e37075.jpg",
     "index.html": "/happybdaymonkey/index.html",
     "main.9770e1df.css.map": "/happybdaymonkey/static/css/main.9770e1df.css.map",
-    "main.392fdfa0.js.map": "/happybdaymonkey/static/js/main.392fdfa0.js.map",
+    "main.1c85efdd.js.map": "/happybdaymonkey/static/js/main.1c85efdd.js.map",
     "488.2da95405.chunk.js.map": "/happybdaymonkey/static/js/488.2da95405.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9770e1df.css",
-    "static/js/main.392fdfa0.js"
+    "static/js/main.1c85efdd.js"
   ]
 }
